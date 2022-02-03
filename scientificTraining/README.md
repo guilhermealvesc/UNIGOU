@@ -84,3 +84,87 @@
   - Simulations
   - Coding
   - etc.
+
+## Literature Review (Why Literature Review)
+
+- Get yourself oriented in the field
+  - See the topics, the state of the art
+  - Get familiar with the terminology and the style of writing
+
+- Build your research on a serious basis
+  - You can use findings of previous authors
+  - You need to use proved methodology!
+
+- Is it really something new?
+  - Maybe it has been done
+  - Maybe you are doing it wrong
+
+### The first steps
+
+![firstSteps](../images/firstSteps.png)
+
+- You should already know the topic of your research/interest
+- I you do:
+  - What are the keywords for its description?
+  - Do you know the corret terminology in English?
+  - What are the synonyms of your keywords?
+  - What are narrower/broader terms?
+
+### Pratical Example
+
+- Analysis of Noise Reduction in Education Buildings
+- You want to know the acoustic issues in education buildings, ways of noise propagation, common measures of noise reduction, etc.
+
+| Keywords                      | Synoyms, related terms                    |
+|-------------------------------|-------------------------------------------|
+| Education building acoustics  | Noise in schools, Noise in universities   |
+| Building structures           | Acoustic walls, Building acoustics        |
+| Noise propagation             | Sound propagation, Noise/Sound spreading  |
+| Noise reduction               | Noise control, Mitigation, Abatement      |
+| Noise attenuator              | Silencers, Noise dampers                  |
+| Sound insulation              | Sound insulation                          |
+
+> Keep adding to your list
+
+### Not sure with the terminology?
+
+- Online Sources
+  - Wikipedia
+  - Google Scholar (and others)
+  - The Oxford English Dictionary (OED) - paid
+  - Merriam Webster Dictionary - free
+- Books and Papers
+- Profesional Thesaurus
+  - Thesaurus.com
+  - Mathematics Subject Classification
+  - MeSH (Medical Subject Headings)
+  - IEEE Thesaurus and Taxonomy
+  - GEMET
+  - EUROVOC
+
+### Logical Operators
+
+- It is possible to combine your keywords to make your search more effective
+  - AND, OR, NOT
+  - Substitute Symbols
+  - Parnethesis "" (Tells the search engine to look for the exact sentence, in the exact order)
+  - Filters
+
+![parenthesisSearch](../images/parenthesisSearch.png)
+
+- Use Advanced Search Functions
+  - (sulphur OR sulfor) ... sul*ur ... sul?ur
+  - dissertation site:harvard.edu ... (searches only one site)
+  - +nose ... (word ,,noise'' musb be included in the results)
+
+### Advanced Search On Google Scholar (generally applicable tips for all GOOGLE searches)
+
+- (noise OR sound) "education building" -Health (- excludes word)
+
+- AND is added automatically (not necessary to specify)
+- OR can be substituted by the symbol |
+- NOT cannot be used, use the symbol - (minus)
+- Use " " (hyphens) for multiple-word-term search
+- Symbom * substitutes the whole word
+- You can use the operator (site, allintitle, author, etc.)
+- Check Google Manual for more
