@@ -168,3 +168,74 @@
 - Symbom * substitutes the whole word
 - You can use the operator (site, allintitle, author, etc.)
 - Check Google Manual for more
+
+## How to efficiently google information
+
+![googleSearching](../images/googleSearching.png)
+
+- Google Patents
+  - Variuous patent offices;
+  - USA, EU, Germany, Canada, China...
+
+- Google general search
+  - Searches through all pages
+  - Offers lots of results
+  - Indexes according to many factors keywords, reliability, currency, place of connection (Prague, Brasília), paid results, etc...
+- Google Scholar, searching through academic sources only
+  - Offer less results
+  - Most likely more relevant
+  - Advanced functions for academic search
+  - Indexes according selected criteria: relevance, date of publishing...
+
+### Various sources of information
+
+- Wikipedia.org
+  - Very good to get a basic idea about the topic
+  - Very good to learn English terminology
+  - Many contributors, lot of content
+  - Mentions original sources of information!
+- Be aware
+  - Quality control to some extent only!
+  - Always double check the information
+  - Never cite Wikipedia in your work
+
+### Various sources
+
+- Handbooks, Textbooks, Encyclopedias
+  - Very good to get familiar with terminology and general context
+  - Good to find connections among topics
+  - Easy to identify, generally known.
+  - Well accessible (colleagues, tutors, libraries, online)
+- Student Theses (BSc., MSc., Ph.D.)
+  - Can contain good literaute review
+  - Always contains list of sources (references)
+  - Can show you common keywords, methods
+  - Publicly available (university repositories, online...)
+- BSc., MSc., Theses
+  - Quality is sometime questionable!
+  - Can mislead reader by purpose
+  - Can contain mistakes
+  - So be critical
+- Ph.D. Theses
+  - Usually high quality (thorough review process)
+  - Usually contains extensive literature review
+  - Usually represents state of the art
+- Published papers
+  - Show style of writing in the field / terminology
+  - Show common methods / tools / devices
+  - Show how are data gathered
+  - Show ow are the results interpreted
+- Be Aware
+  - Prefer papers from renowned journals (peer-reviewed)
+  - Prefer papers from trustful author
+  - Prefer papers which offer "full and clear picutre"
+- Published Review Papers
+  - It is like to hit a jackpot!
+    - Somebody did the review for you!
+  - Extensive list of sources
+  - Prearrange in a understandable way
+  - Often offers in-view of senior researchers
+- Be Aware
+  - The review paper can be old
+  - The author could miss something (nobody is perfect)
+  - Always check current state of the art and do additional review
