@@ -239,3 +239,48 @@
   - The review paper can be old
   - The author could miss something (nobody is perfect)
   - Always check current state of the art and do additional review
+- Use Google Scholar
+- Renowned citation databases and databases of publications
+  - Topic will be targereted in the following Module
+
+### Reading
+
+- Smart- Careful - Mindful
+  - Be smart and picky
+  - Do not read everything! Read with a TARGET
+  - Focus on abstract, conclusion, and specific issues first
+  - Very relevant sources read slowly and carefully
+  - Less relevant sources keep for later
+  - Make notes from the very beginning
+
+### Quality assessment of papers
+
+- Be critical
+  - Avoid papers with bad grammar
+  - Avoid papers with bad referencing
+  - Avoid papers with relevant information missing
+  - Use your best judment
+  - It is not a rocket science
+
+- Craap Test
+
+  ![craapTest](../images/craapTest.png)
+
+### From our Experience
+
+- Be systematic
+  - Organize your resoures and their citations
+  - Use (any) ranking system
+- Make Notes!
+  - All the time and from the beginning. So you don't have to read again
+  - Pinpoint important findings. (ideas, methods, comparisons, discrepancies...).
+  - Use colours, highlights.
+- Check the references
+- Use citation tools (Mendeley, Zotero, JabRef - integrate with Latex, EndNote)
+  - Download and manage citations
+  - Create personal library, folders
+  - Insert flags and notes
+  - Collaboration
+- Integrate with word processing software tools
+  - Easy insertion of citations
+  - Generation of reference list
