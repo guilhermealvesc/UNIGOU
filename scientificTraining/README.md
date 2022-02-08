@@ -284,3 +284,166 @@
 - Integrate with word processing software tools
   - Easy insertion of citations
   - Generation of reference list
+
+## Databases of Peer-Review Literature
+
+- Resources of The Modern Knowledge
+
+### Resources Of Knowledge
+
+- In the past
+  - Knowloedge shared by written communication between individual scientists(letters)
+  - Limited amount of books
+  - Somo journals(only 18th century)
+- Nowadays
+  - Many books
+  - Many conference proceedings
+  - Uncountable Scientific articles
+
+### The good, the bad and the ugly
+
+- The good
+  - Vast amount of relevant up-to-date information available upon few clicks, if done right
+- The bad
+  - It can be difficult to get oriented
+  - It can be overwhelming, time consuming and contra productive
+- The ugly
+  - Not all the information are good quality!
+  - Lot of bad publications(writing only to have a publication, predatory journals without peer-review, etc...)
+
+### In Search of Quality (Renowned journals)
+
+- Assure quality of content
+- Each paper goes through a rigorous peer-review by other lead scientists
+- Assessment if the research was done well:
+  - The background is resoanable
+  - The methodology fits
+  - The data are correctly processed
+  - There are no logical mistakes
+  - etc...
+
+### In Search of Quality (Renowned citation databases)
+
+- Assure quality of sources
+- Rigorous peer-review of the accepted (referenced) journals
+- Very strict criteria, board of experts
+- Developed metrics for authors, journals, conferences, books
+- They can help you to find most relevant up-to-data publications
+
+### Google Scholar - Be Aware
+
+- Google Scholar collects research papers form all over the web
+- Also including grey literature and non-peer reviewed papers and reports
+
+### Quality metrics - Journals
+
+- Quantify the importance of the journal
+- Measurement of quality / impact of the journal
+  - Journal Impact Factor (Web of Science)
+  - CiteScore (Scopus)
+
+### Journal Metrics - Journal Impact Factor (WoS)
+
+- The Impact Factor is a measure of the frequency with which the articles in a journal has been cited in a particular year
+- Two years span back - and the Impact Factor is used in the following year
+  - IF = Citations(y) / (Publications(y-1) + Publications(y-2))
+- For example Impact Factor of Nature for 2017 (reported in 2018)
+  - IF(2017) = Citations(2017) / (Publications(2016) + Publications(2015)) = 74090/(880+902) = 41.577
+
+### Journal Metrics - Citescore (Scopus)
+
+- CiteScore is based on the number of citations to documents (articles, reviews, conference papers, book chapters...) by a journal over four years, divided by the number of the same document types indexed in Scoups and published in those same four years.
+- Longer period = usually higher than impact factor
+  - Cs(y) = (Citations(y) + Citations(y - 1) + Citations(y - 2) + Citations(y - 3))/(Publications(y) + Publications(y - 1) + Publications(y - 2) + Publications(y - 3))
+- For example Impact Factor of Nature for 2019 (reported in 2020):
+  - Cs(2019) = (Citations(2019) + Citations(2018) + Citations(2017) + Citations(2016))/(Publications(2019) + Publications(2018) + Publications(2017) + Publications(2016)) = 243894 = 51.0
+
+### Predatory Journals
+
+- Avoid under any circumstances
+  - Biased journals (publish everything for a payment)
+  - Tricking researchers to publish in them
+  - Do not use them, do not publish in them
+- How to identify them
+  - Supicious behaviour
+  - Payment for publication
+  - Very short terms (no peer-review)
+  - Sometives very similar to a renowned journal
+  - Check Beall's list
+
+### Renowned Databases
+
+- Vast amount of information that must be filtered
+- As mentioned in the previous modules:
+  - Search in a clever way
+  - Do not read everything
+  - Work with Keywords
+  - Use logical operators
+  - Use advanced search engines
+  - etc...
+
+### Overview of the databases
+
+- Databases of citations and abstracts
+  - Basic info about the paper (Name, authors, keywords, abstract...)
+  - Provides link to full text (web of journal of Publisher...)
+  - The search is free, the full text sometimes (open-access papers and journals)
+- Databases of Publicationss
+  - Full text available
+  - The access may be paid (check your university / library)
+- Example
+  ![elsevierPublisher](../images/elsevierPublisher.png)
+
+### Databases of Publications
+
+- Science direct
+  - Physical Sciences and Engineering
+  - Social Sciencies and Humanities
+  - Life Sciences; and
+  - Health Sciences
+
+- Springer Link
+  - Multidisciplinary
+  - Natural Sciences and Engineering
+  - Medicine and Health Sciences; and
+  - Social Sciences and Humanities
+  - Mathematics
+  - Compute Sciences
+  - And Others
+
+- Wiley Online Library
+  - Natural Sciences and Engineering
+  - Medicine and Health Sciences
+  - Journals and E-Books
+
+- Ebsco Host
+  - Natural Sciences and Engineering
+  - Social Sciences
+  - Economics, Finances and Marketing
+  - Journals, E-Books and Proceedings
+  - Collections of Images
+
+- IEEE Xplore Digital Library
+  - Electrical Engineering mainly
+  - Journals, E-Books, and Proceedings
+
+- Knovel
+  - Techinical sciences and Engineering
+  - Journals, Manuals and Encyclopedias
+
+### Open Access Sources
+
+- Freely available research outputs, publications
+- Funding models that do not require to pay (public fundings, author covers publication fee)
+- Main Ideia
+  - Remove the barriers
+  - Enhance the movement of peer-review research literature
+- Risk
+  - Quality
+  - Use only renowned Journals
+  - Check well known publishers - Elsevier, Clarivate, Wiley...
+- www.doaj.org
+- core.ac.uk
+- www.base-search.net
+- www.openaire.eu (European Comission)
+- www.v2.sherpa.ac.uk/opendoar/
