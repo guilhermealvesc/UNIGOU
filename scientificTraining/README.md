@@ -447,3 +447,19 @@
 - www.base-search.net
 - www.openaire.eu (European Comission)
 - www.v2.sherpa.ac.uk/opendoar/
+
+## Citation Tools
+
+- Use Citation Tools
+  - Manage downloaded publications, citations
+  - Create personal library, folders
+  - Insert tags and notes
+  - Collaboration
+- Integrate with MS Word, Latex
+  - Easy insertion of citations
+  - Generation of reference lists
+- Tool Suggestions
+  - Mendeley
+  - Zotero
+  - JabRef (integrate with Latex)
+  - EndNote
