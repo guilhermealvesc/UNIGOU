@@ -463,3 +463,71 @@
   - Zotero
   - JabRef (integrate with Latex)
   - EndNote
+
+## Academic Writing
+
+### Structure of The Paper - IMRaD
+
+- IMRaD - Introduction, Methodology, Results and Discussion sections
+  - Internationally recognized, people are used to it
+  - Well proved and adjusted since 1940s
+  - Applicable for layout of thesis, report and much more
+  - Undersandable, helps writer as well as reader
+  - Flexible, adaptable without strict rules
+- There is a logic preparing your chapters - Different chapters have differente purposes
+
+![imradStructure](../images/imradStructure.png)
+![imradIdeaStructure](../images/imradIdeaStructure.png)
+
+### The Journey
+
+- It is good to first stop, think ahead and do a little planning.
+- The following steps coudl help you to stay on the good path:
+  - Step 1 - Market need - WHAT/WHO do you target?
+  - Step 2 - Make a concept (sketches, concept sheets, mind maps, stickers, notes...)
+  - Step 3 - Make a first annotated content - so you know what to write in your chapters (individual chapters will be described in following lectures)
+  - Step 4 - Go and write your paper
+  - Step 5 - Check the outcome - clarity, readability, visual presentation (sometimes good to wait to, "settle it down")
+- Market need - What/who do you target?
+  - Your market are your readers
+
+![marketNeed](../images/marketNeed.png)
+
+- Concept of the paper
+  - To get your ideias organized, to structure your thinking
+  - To realize the connections and missing parts
+  - Keep the "Freedom of thought"
+  - Don't worry about style and form (whatever suits you)
+  - Don't worry to adapt
+
+![basicStructureImrad](../images/basicStructureImrad.png)
+
+- The First Draft
+  - Open your computer
+  - Write down your chapters
+  - Make a first brief content, bullet points, etc.
+  - Don't worry about grammar, style and form
+  - Check if your chapters logically follow
+  - Edit, edit, edit
+
+### Finally Full-Speed Writing
+
+- The process - The Usual Way
+  - It is usually good to start with the straight forward sections - methodology, results, discussion
+  - Keep the introduction and the conclusion for later
+  - Keep the abstract and keywords for the very end (if you have the option)
+  - Keep the graphical and language editing for the end
+
+> But don't hold yourself! --- Do whaterver works for you the best
+
+### Finaaly Starting To Write General Rules
+
+- Keep it simple
+  - Be clear and precise
+  - Avoid unnecessary fluff
+  - Avoid ambiguity
+  - Use understandable language, use correct terminology
+- Use the correct template!
+- Final appearence is very important:
+  - Good layout, clear headings, well-designed figures
+  - Always double-check you grammar
