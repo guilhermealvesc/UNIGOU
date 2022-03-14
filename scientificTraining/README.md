@@ -518,9 +518,9 @@
   - Keep the abstract and keywords for the very end (if you have the option)
   - Keep the graphical and language editing for the end
 
-> But don't hold yourself! --- Do whaterver works for you the best
+> But don't hold yourself! --- Do whatever works for you the best
 
-### Finaaly Starting To Write General Rules
+### Finaly Starting To Write General Rules
 
 - Keep it simple
   - Be clear and precise
@@ -531,3 +531,93 @@
 - Final appearence is very important:
   - Good layout, clear headings, well-designed figures
   - Always double-check you grammar
+
+## Title, Abstract, Keywords (The Grabbers!)
+
+- Out of the IMRaD scope
+- Used for scientific databases and search engines, often stand alone
+
+### The Title First
+
+- Your title is your first impression
+  - No more than 12 words
+  - Convey something about your subject
+  - Focus on what you investigated and how
+  - Be concise, clear and use keywords prominently
+  - Avoid ambiguity
+  - Use "good" English
+- Common types of titles - CHOOSE STRATEGICALLY!
+  - Noun phrase; <-- Noun phrases are the most common type, but not always the best one (sometimes too vague)
+  - Statement; or <-- Easily summarizes results
+  - Question; <-- Attract readers, gets the right idea about the main issue
+- Avoid ambiguity
+- Use "good" English - Grammatically and Stylistically
+
+### Title Capitalization
+
+- Common way how to write your title with some rules and some choices
+- Headline-style capitalization
+  - Capitalize the first letter of the first and last words of the title and subtitle and all other words, except as follows:
+    - Do not capitalize articles (a, an, the), cordinating conjunctions (and, but, or, nor, for, so, yet), or the words to and as.
+    - Do not capitalize the second part of a hyphenated compound, unless it is a proper noun or adjective (Self-government, Mid-Atlantic)
+    - Do not capitalize parts of proper nouns that are normally in lowecase (Ludwig van Beethoven)
+    - Do not capitalize prepositions (of, in at, above), unless...
+      - Capitalize if first or last word
+      - For other positions within the title, opinions differ...
+      - Chicago style: Lowercase unless are emphasized (A River Runs Through It), used aas adverbs (Look Up), adjectives (The On Button) or conjunctions (Look Before You Leap) / Do not capitalize long prespositions (according, underneath)
+  > Campus Architecture: Building in the Groves of Academe
+  > Green Buildings - A Step towards Environmental Protection
+- Sentence-syle capitalization
+  - Capitalize only the first letter of the first word of the title and subtitle
+  - Capitalize any proper nouns and proper adjective thereafter (following English Grammar)
+  > Design by optimizqation in architecture, buildings, adn construction
+  > Building change: Architecture, politics, and cultural agency
+  > Natural crisis: Symbol and imagination in the mid-American farm crisis
+- Save yourself some work and use the capitalization tools
+  - [capitalizemytitle](www.capitalizemytitle.com)
+  - [headlinecapitalization](www.headlinecapitalization.com)
+  - [titlecaseconverter](www.titlecaseconverter.com)
+
+### Get the Abstract Right
+
+- Overview of the main story with limited lenght - gives the highlights. approx. 300 to 400 words
+- Very important! Publicy available everywhere
+- Don't do a sloopy job!
+  - If oftens stands alone
+  - It is often sent/evaluated ahead of the paper (conference application)
+  - Very often the only part people read, unless It succeeds in convincing!
+  - Some readers may only have access to the abstract (papers are paid)
+
+> An abstract should report what you did, not what you plan to do, so avoid language like hope, play, try, or attempt. Use the past tense to indicate that the study was already completed
+
+- 2 common types of abstract
+  1. Structured - similar to the paper (can have subheadings), deals with all the main subsections of the paper
+  2. Focused - more common - targeting 1 or 2 main aspects of the study, usually the method and the results
+
+- The selection usually depends on the author
+- Sometimes a specific form is requested (i.e. extended abstract)
+- Just a little summary
+  1. Follow the guidelines
+  2. Be sure the abstract has everything you need - no more, no less.
+  3. Be specific, avoid vague fluff, pinpoint context of the research and important findings
+  4. You can report you key results and conclusions (but the details keep for later)
+
+> Tip: Because you have to put so much into a short body of text, writing an abstract can definitely be challenging.
+
+> To Improve your abstract-writing skills, review abstracts of articles in journals and in conference proceedings to get an ideia of how researchers in your field approach specific subjects and research
+
+### The word of keywords
+
+- "A word, an expression, or a concept of particular importance of significance"
+- Most journals and conferences now expect authors to provide key words
+- Key words are used by search engines to locate the paper
+- Between 5 to 10 words are normally required
+- They should the most closely reflect the content of the paper
+- Some useful tips
+  1. Include your thechniques and/or specific methodology
+      > The most important techniques are worth mentioning (X-ray Crystallography, Real-time PCR, CFD Simulation, etc.)
+  2. Focus on the main topic of your research
+  3. Avoid overlapping keywords in your title and those in your keyword list
+  4. Perform keyword research before submitting your article
+
+> A Manual for Writers of Research Papers, Theses, and Dissertations' by Kate L. Turabin; provides detailed ideas on choosing keywords for your publication.
