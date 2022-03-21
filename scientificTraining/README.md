@@ -621,3 +621,66 @@
   4. Perform keyword research before submitting your article
 
 > A Manual for Writers of Research Papers, Theses, and Dissertations' by Kate L. Turabin; provides detailed ideas on choosing keywords for your publication.
+
+## Introduction and Methodology
+
+### Introduction Section
+
+- Draw-in your reader, get attention and explain very clearly the issue on hand and what you do about it
+- Be specific and clear
+- No reading betweel the lines
+- Avoid unncessary fluff and vague information
+- Focus on knowlodge gaps
+
+- Step by Step
+  1. What's known
+  2. What's unknown (limitations and gaps in previous studies)
+  3. Your burning question / hypothesis / aim
+  4. Your experimental approach
+  5. Why your approach / results are new and different and important (fills in the gaps)
+
+![introductionSection](../images/introductionSection.png)
+
+#### The main task of the introduction section
+
+- To take the reader step by step from what is known to what is unknown
+- To put your work into the large perspective and narrow it down
+- To present your specific questions
+- To emphasize how your study fills in the gaps
+- To demonstrade the need for your research
+
+> A good opening provides direction from the very beginning
+
+#### Little Tips
+
+- Write for a slightly more general audience
+- Keep paragraphs short
+- Explicitly state your research question / aim / hypothesis: "We asked whether"; "Our hypothesis was"; "Our aims were"
+- Do not answer the research question (no results or implications)
+- Summarize at a high level! Leave detailed descriptions, speculations, and criticims for the discussion
+- The first sentence / paragraph is VERY IMPORTANT! Try to set the tone and make an impression (i.e following example)
+
+#### Keep the balance - Matching the opening to the results
+
+![introductionBalance](../images/introductionBalance.png)
+
+> Vocabulary for introduction (material)
+
+### Methodology
+
+- You provide specific details about your work process
+- You present your tools and your approach
+- You demonstrate that you used proved and correct tools / ways
+- You relate your methods to other studies
+- You show solid basis of your work
+- It should contain enough detail for the study to be repeatable (i.e it should be possible to replicate / check your findings / results)
+- If your encontered any problems indicate them - and show their influcence on the results (this is critical - reader should not be finding issues that are note mentioned in the paper)
+- Be aware: Good methodology section adds credibility to the results and vice versa
+- To further make life easy for your reader, you can:
+  - Cite a reference for commonly used methods, for example
+    - "We measured microbial biomass by the chloroform slurry approach as described by Fierer and Schimel (2003)." ---> Perfect! This provides you with a "shortcut", shows serious background, adds credibility...
+- Display information and processes in flow diagrams, tables and graphics where possible
+
+#### Methodology section recipe (Not all will always apply)
+
+![methodologySectionRecipe](../images/methodologySectionRecipe.png)
