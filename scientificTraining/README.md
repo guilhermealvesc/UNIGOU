@@ -684,3 +684,99 @@
 #### Methodology section recipe (Not all will always apply)
 
 ![methodologySectionRecipe](../images/methodologySectionRecipe.png)
+
+## Results, Discussion and Conclusion
+
+### Results (The ksy driver of an article)
+
+#### The main task of the results section
+
+- Present the hard data as an evidence to support your research outcomes
+- Summarize what the data show
+- Point out simples relationships
+- Descrive big-picture trends; highlight important findings
+- Don't forget to present negative and control results
+
+#### Usefull tips
+
+- Break the chapter into subsections, with headings (if needed)
+- Reserver information about what you did for the methods section
+- Reserve in-depth comments on the meaning of your results for the discussion section
+
+#### The results section should be well readable, understandable and effective
+
+- Use figures and tabels to accompany your text
+
+#### Figure, Table, Or Text?
+
+- Depends on your point and the message that you want to communicate
+- Tables
+  - Presenting date (raw or processed)
+  - Showing values and their precision
+  - Allow multiple comparisons between elements
+  - Allow comparisions in many directions
+- Figures
+  - Showing overall tred or "big picture"
+  - Presenting story trough the "shape"
+  - Simple comparison between only a few elements
+
+![figuresTables](../images/figuresTables.png)
+
+- Usefull tips:
+  - Figures and tables should optimally stand alone and tell a complete story
+    - The reader should not need to refer to the main text
+    - However, you may write a commentary to the presented figures and tables
+    - (Complement the information that is already in tables and figures)
+  - In the main text, avoid simply repeating the numbers that are already available in tables and figures
+    - Repeat / highlight only the most important numbers
+    - Give precise values that are not available in the figures
+    - Report the percent change on percent difference if absolute values are given in the table
+  - Cite and locate figures or tables that present supporting data
+    - The figure/table should be after its citation in the text
+  - Use good titles of figures and tables
+    - Summarize the content
+    - Highlight key points
+  - Show understandable legends in the figures
+    - Explain well what is presented
+  - Do not forget units!
+
+#### Results section recipe (Not all will always apply)
+
+![resultsSectionRecipe](../images/resultsSectionRecipe.png)
+
+### Discussion section
+
+- The main task of the discussion section
+  - Answer question asked
+  - Support your conclusions - by your data, other researchers data etc.
+  - Defend your conclusions - and anticipate criticism
+  - Provide the "big-picuture" take-home message to the reader
+  - Don't forget to present and defend difficulties/weaknesses
+- If you have any difficulties/weaknesses you should mention them - and defend them
+- Otherwise reader may not trust your results (if they find on their own)
+- It is also considered as a stronger paper, if you do this
+
+![discussionSection](../images/discussionSection.png)
+
+#### Pratical tips
+
+- Tell it like a story
+- Use the active voice
+- Use a bit more popular language to address a wider audience
+- Make sure it connects clearly with the issues you raised in the introduction
+- Start and end with the main finding
+- Focus on what your data prove, not what you had hoped your data would prove
+- Focus on the limitations that matter, not generic limitations
+
+#### Discussion section recipe (Not all will always apply)
+
+![discussionSectionRecipe](../images/discussionSectionRecipe.png)
+
+### Conclusion section
+
+- End with the powerful stuff
+- Conclude your story, restate main targets, sumarise the main findings and contributions
+- Useful Tips
+  - Last words are poweful. Don't blow the punchline
+  - New question? Make it concrete and show how it grew from your work. "More research is needed" poses question about the work.
+  - Avoid any shocking "plot twists"!
