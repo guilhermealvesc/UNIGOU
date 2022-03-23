@@ -913,3 +913,134 @@
   - Family and friends for grammar
   - Colleagues for professional opinion
   - Ask for their impression and frank feedback
+
+> Tools: writefull for word
+
+## Publishing research papers
+
+- A step-by-step overview of the process of publishing a paper: discussing authorship, reviewers, journals and the contribution of peer reviewed papers for the developmente of prestigious research and science
+
+### Why do we publish a paper?
+
+- We have developed some word with the potential to contribute to the scientific communith and the society
+- We have interesting insights on knowledge gaps and fields that require further knowledge deepening
+- We are on the path to developing a complex work and we would like to share our progress with the scientific community to receive proper feedback
+
+### Submitting and publishing a paper
+
+- Main actors:
+  - authors
+  - reviewers
+  - editors
+  - publishers
+
+### Typical main steps: from paper to publication
+
+1. (A -> E) Paper submission
+2. (E -> R) Request for reviews
+3. (R -> E) Agreement or refusal for review
+4. (E -> A) Preliminary decision containing the comments of reviews
+5. (A -> E) Revised paper, resubmitting
+6. (E -> R) Request for revision of revised paper
+7. (R -> E) Reviews of revised paper
+8. (E -> A) Final decision
+9. (E -> P) Accepted paper
+10. (P -> A) Proofing formatted paper
+11. (A -> P) Corrected proofs + possible copyrights agreements
+12. (P -> A) Published paper (pdf, link, printed copy etc)
+
+### Submitting the paper
+
+- It is done by the lead author on behalf of all authors
+- The editorial system usually asks for the author, title, abstract, keywords, etc., to be provided separately during the submission process
+- The editorial system depends on the journal
+
+### Which journal for my paper
+
+- The journal finder tool (Elsevier)
+  - Helps inexperienced authors to select the correct journals for their papers
+  - Helps authors working in multidisciplinary fields identify possible journals
+  - Highlights journals that offer open-acces options
+
+### The journal finder
+
+- The tool generates a list of Elsevier journals that match the topic of their abstract
+- They can then order the results based on their priorities, such as highest CiteScore or shortest editorial time
+- You can filter the results to those journals that have open-access options
+- It helps inexperienced author to select the correct journals for their papers
+- Nearly a third of visitors to Elsevier's Authors' Home are trying to decide which journal they submit their paper to
+- It avoids the risk of having your paper rejected by properly addressing the publication to a fitting journal
+
+### Predatory Journals (explanations)
+
+- Predatory journals and publishers are entities that prioritize self-interest at the expense of scholarship and are characterized by false or misleading information, deviation from best editorial and publication practices, a lack of transparency, and/or the use of aggressive and indiscriminate solicitation practices
+
+### Ordering authors
+
+- Option 1: all authors are equal, listed alphabetically
+- Option 2: authors are ordered in accordance with their contribution (the first author contributed the most)
+
+### Increasing Visibility
+
+- Make sure your paper is registered within the databases of your institution
+- Create records of your paper: Publons, ResearchGate, Mendeley, LinkedIn,
+- Send a summary or pdf to your colleagues
+- After some time, check citations
+
+### Peer Reviews
+
+- Open: both reviewer and author known their identity
+- Closed: reviewer knows author but author does not know review
+- Double blind: both identities are unknown
+
+> A peer review is supposed to engage the exchange of opinions and knowledge among peers. The goal is to contribute to an open-minded trade of experiences, based on mutual respect
+
+### Ethics in Reviewing
+
+- The whole reviewing process should be treated as confidential
+- Authors should not submit a paper which is already in the process of being reviewed by another journal
+- Reviewers should be clear about potential conflicts of interest
+- Reviewers should not use data/inspiration/ideas from an unpublished paper
+- Reviewers should not be influenced by personal relations (positive or negative) with the authors
+
+### Potential conflicts of interest (springer)
+
+- The reported results could impact you financially (gaining or losing money). For example: you are reviewing a paper about a new drug which could compete with a drug you currently working on
+- The paper refers to a controversial topic about which you have strong feelings or opinions
+- You have strong feelings (positive or negative) about one of the authors
+- You have cooperated with the authors on your own research
+
+### The role of the reviewer
+
+- Do not abuse your role or try to demonstrate power
+- Focus on main ideias and concepts, rather than emphasizing small imperfections or misprints
+- Avoid sarcasm, irony or strong hurtful expressions
+- Try to be constructive: State clearly your request and suggestion/advice
+- Try not to leave the authors waiting for a feedback for too long
+- Admit your fault if the authors make a good case for not addressing your comments
+
+### As an author, you should
+
+- Be ready to accept criticism and cope with it
+- Be positive and take the comments as suggestions for improvement, not as a personal attack on your work
+- Even comments based on possible misunderstanding have the potential to guide your towards improvement. For example, you can make the commented matter clearer for the readers
+- Avoid extremes: try not to be arrogant but at the same time to be confident about your work and ready to argue it
+- Explay your work to the readers: do what you can and let them know why you cannot do further
+- Expreess your gratitude towards and insightful comments
+- Make the work of the reviewers easier:
+  - Run a checker for spelling and grammar before submitting the paper
+  - Mark changes in the revised paper
+  - Explain in the comments how you addresed individual comments
+  - Make sure not to get emotional and personally offended by the criticism. Take it as an inherent part of the process of publishing a paper
+
+### Positive Reviews
+
+- Specific points that can be addresed with a few adjustments
+- Insightful ideas that can be incorporated with a little bit of extra work
+- Suggestions for a potential further development of the paper
+
+### Finally
+
+- Make sure to try and give your best advices and properly formulate your critics when reviewing the work of a colleague
+- Make sure not to take critics on your work personally
+- The process of reviewing and being reviewed is crucial for the development of commited research and publication of serious work
