@@ -1044,3 +1044,62 @@
 - Make sure to try and give your best advices and properly formulate your critics when reviewing the work of a colleague
 - Make sure not to take critics on your work personally
 - The process of reviewing and being reviewed is crucial for the development of commited research and publication of serious work
+
+## Paper and Presentation of a conference paper
+
+### The importance of conferences
+
+- Conferences are key places to meet fellow researchers engeged on similar research topics
+- They are one of the main places where researchers from across different institutions and research teams network
+- It is great opportunity to get to know what is being developed by other research groups and discuss potential collaboration and common challenges
+
+### A conference paper
+
+- Conference papers can be an effective way to try out new ideias, introduce your work to colleagues, and introduce your research questions
+- Presenting at a conference is a great opportunity for gaining valuable feedback from a community of scholars and for increasing your professional stature in your field
+- A conference paper is ofter both a written document and oral presentation
+- You may be asked to submit a copy of you paper to a commentator before your present at the conference
+- Your paper should follow the conventions for academic papers and oral presentations, including the specific format of the conference in question
+
+### Writing the paper
+
+- A conference paper must contain an overview description of your research and findings divided into sections:
+- Abstract:
+  - A short overview of the whole paper. An overall suggestion is to dedicate one sentence to each section of your paper, summarizing the motivations, methodology, results and conclusion
+
+### Introduction
+
+- The introduction is the section where you present your paper in a way to instigate the reader to keep on reading
+- Ideally, the introduction should briefly present your motivations, hyphotesis, your research question and the problem you are aiming to address
+- The introduction is also the place where you state some of the foremost important references gathered through your Literature Review
+
+### Methodology (Presentation)
+
+- The Methodology section is where you explain the ways you chose to conduct your research and why
+- For example: you decided to take a simulation approach, because running experiments is more time consuming and expensive; or you decided to take a survey approach, because the issue is subjective to human perspectives
+- This is where you explain the readers the methods you chose to gather your data for analysis. You should also make your case of why these methods were pragmatically chosen (over other methods) for your specific research case
+- It is very important to justify your methods, rather then just using them without explaining your choices
+
+### Results
+
+- When presenting your results, you must decide the best formats to convey the information, i,e: Graphs, tables, charts, paragraphs, etc
+- You should take into consideration the formats that will be more convenient for the reader to grasp the information and understand your results, not the ones that are easier for you to display
+- You should also include the analysis and discussion of your results directly in this section or in a separate section "Discussion"
+- You should decide if it i best to discuss the results directly in this section or not based on the scope of your paper considering their perspective
+
+### Conclusions
+
+- This is the section where you present the readers which conclusions you have achieved after analysing your results
+- It is important to notice the difference between "Results", "Analysis" and "Conclusion", as many authors mix these topics
+- The conclusions is what you conclude after you have analysed and discussed your results
+
+### References
+
+- Even though commonly neglected, the "Refernces" section is one of the most important ones of your conference paper, because it shows the audience from where you got your research background
+- Referencing to out-of-the-date articles will give the impression of a dated research, which revelance can be questioned in the current context of the conference
+- Referencing to current papers, recently published by others who may also be attending the same conference is advisable, as a way to engage more interesting and collaborative discussions
+
+### A good conference paper after all
+
+- Is a descriptive research work, where fellow researchers will crearly understand the problem you wanted to address and all the steps towards your conclusion
+- It is not a description of a well established methodology or well known result
