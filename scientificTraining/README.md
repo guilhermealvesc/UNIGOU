@@ -780,3 +780,136 @@
   - Last words are poweful. Don't blow the punchline
   - New question? Make it concrete and show how it grew from your work. "More research is needed" poses question about the work.
   - Avoid any shocking "plot twists"!
+
+## Final Editing
+
+- The first draft is black and white, editing gives your story colour
+- Good designs supports the first impression
+- You want to present your work well
+- You want to please your readers
+- You want to pass the review
+
+### Topics to discuss
+
+- The text
+  - Grammar and stylistics, correct terminology
+  - Structure, flow of the story;
+  - Relatoins between the sections.
+- Layout and visual elements
+  - Fonts styles, sizes, spacings, formatting in general;
+  - Position of visual elements, division of paragraphs;
+  - Quality of images, readability of text in visual elements.
+- The little bugs
+  - Symbols, numbers, units;
+  - Cross-referencing of figures and tables, titles;
+  - Numbering of equations
+  - Proper referencing of sources
+
+### What to remember
+
+- Always follow the provided template/formatting rules
+  - Check the conference or journal web pages;
+  - Download or request the template (preferably editable)
+  - Be sure that you are using up-to-date information
+  - In this case do not be creative, just follow the rules
+
+### Editing the text
+
+1. Take a break
+2. Read carefully, don't be sentimental, let the ink run
+
+- The Process
+
+1. Read Fast the whole paper:
+   - As your future readers
+   - See if the story makes sense and follows up
+   - See if everything is understandable
+   - Eliminate redundancies of information
+   - Check the connection between the chapters
+   - Check if anything is missing or needs further clarification
+   - Dont't worry to add visual elements where appropriate
+   - Don't be sentimental - erase, erase, erase - words, sentences, paragraphs
+2. Read slowly and carefully each paragraph
+   - The text should be clear and easy to read
+   - Simplify clunky language
+   - Avoid complicated word choice
+   - Revice unnecessary words (no fluff)
+   - Avoid very long sentences
+   - Avoid multiple use of the same word (use synonyms - MS Word, Google, various thesauri)
+3. Check the little things - the last check
+   - Grammatical errors.
+   - Spelling mistakes
+   - Typos
+
+### Tips and Tricks
+
+- For reading/editing purposes, change the line spacing of your work to double-spaced, and font to Courier New, size 12
+  - Easy on the eye, fast reading (1 page per minute), simplify spotting mistakes
+  - Good both for printout and sceen
+  - Space for notes and comments
+- Always use automatic spelling and grammar check - MS Word
+  - do not trust it absolutely
+- Use WriteFull / Gramarly / ProWritingAid / After The Deadline
+
+### Layout and visual elements
+
+- Always follow the templates/information provided
+- Work directly with the provided template document
+  - First page layout
+  - Fonts and formatting
+  - Headings and subheadings
+  - Lists and bullet points
+  - Titles of figures and tables
+  - Numbering of figures
+  - And others
+
+### Play with your layout
+
+- Aside of the top part of the first page
+- Clever position of figures, tables and visual elements
+  - All of them should be cross-reference in the text
+  - Reference in the text should be first (optimally)
+  - On the same page as the reference (optimally)
+- Clear division of paragraphs
+- Use bullet points and lists
+
+### Images and Visual Elements
+
+- Always print out your paper and check all the visual elements
+  - Quality of images
+  - Readability of text in visual elements:
+    - Graphs - names of axes, numbers, legends...
+    - Schematic diagrams - accompanying text...
+    - Text in any image...
+- Notice: do not forget to translate in all the images and visual elements!
+
+### The Little Bugs (The final check)
+
+- Symbols, numbers, units
+  - Meaning of all symbols and variables should be explained
+    - either in the text (i.e. after the symbol, below the equation...)
+    - or add list of symbols if necessary (or requested)
+  - Keep consistency of symbols
+  - Use proper formatting of numbers
+  - Round values, avous too many decimals
+  - Be sure that you are using correct units (double check)
+  - Be consistent with formatting of t he denominator(a/b - a.b(-²))
+- Related formatting
+  - Symbols - *in italic*
+  - Indexes - regular
+  - Numbers and units - regular
+- Figures and tables
+  - Check numbering sequence
+  - Check titles of figures and tables
+  - Check cross-referencing in the text
+  - REMEMBER: All visual elements should be referenced in text
+- Numbering of equations
+  - Usually in rounded-brackets at the end of the line
+  - Be sure to reference all the external sources and non-original information!!! Beware of plagiarism!
+- Use plagiarism checker for inadvertent plagiarism
+  - www.turnitin.com
+  - www.ithenticate.com,
+- Ask others to read your final version
+  - Family and friends for grammar
+  - Colleagues for professional opinion
+  - Ask for their impression and frank feedback
